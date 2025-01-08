@@ -1,0 +1,34 @@
+﻿<!-- File: Pages/ProductCard.razor -->
+@page "/product-card"
+
+<button type="button" class="btn btn-secondary" @onclick="getname">Get Information</button>
+
+<div class="product-card">
+    <h3>@Pro.Name</h3>
+    <p>Price: @Pro.Price</p>
+    <p>Category: @Pro.Category</p>
+</div>
+
+@code {
+
+
+
+    Product Pro = new Product();
+
+    [Parameter]
+    public string Name { get; set; } 
+
+    [Parameter]
+    public decimal Price { get; set; }
+
+    [Parameter]
+    public string Category { get; set; }
+
+    void getname()
+    {
+
+        Pro.Name = ProductDataService.products[ProductDataService.products.Count - 1].Name;
+        Pro.Price = ProductDataService.products[ProductDataService.products.Count - 1].Price;
+        Pro.Category = ProductDataService.products[ProductDataService.products.Count - 1].Category;
+    }
+}

@@ -1,0 +1,42 @@
+﻿<!-- File: Pages/AddProduct.razor -->
+@page "/add-product"
+
+<h3>Add Product</h3>
+
+<EditForm Model="@newProduct" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group">
+        <label for="name">Name</label>
+        <InputText id="name" class="form-control" @bind-Value="newProduct.Name" />
+    </div>
+
+    <div class="form-group">
+        <label for="price">Price</label>
+        <InputNumber id="price" class="form-control" @bind-Value="newProduct.Price" />
+    </div>
+
+    <div class="form-group">
+        <label for="category">Category</label>
+        <InputText id="category" class="form-control" @bind-Value="newProduct.Category" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Product</button>
+</EditForm>
+
+@code {
+
+    private Product newProduct = new Product();
+
+    private void HandleValidSubmit()
+    {
+        // Logic to add the product to the list or database
+        Console.WriteLine($"Product Added: {newProduct.Name}, {newProduct.Price}, {newProduct.Category}");
+
+        ProductDataService.AddProduct(newProduct);
+
+        // Reset the form
+        newProduct = new Product();
+    }
+}

@@ -1,0 +1,91 @@
+D:\university\VP lab final\Question2\bin\Debug\net8.0\appsettings.Development.json
+D:\university\VP lab final\Question2\bin\Debug\net8.0\appsettings.json
+D:\university\VP lab final\Question2\bin\Debug\net8.0\Question2.staticwebassets.runtime.json
+D:\university\VP lab final\Question2\bin\Debug\net8.0\Question2.staticwebassets.endpoints.json
+D:\university\VP lab final\Question2\bin\Debug\net8.0\Question2.exe
+D:\university\VP lab final\Question2\bin\Debug\net8.0\Question2.deps.json
+D:\university\VP lab final\Question2\bin\Debug\net8.0\Question2.runtimeconfig.json
+D:\university\VP lab final\Question2\bin\Debug\net8.0\Question2.dll
+D:\university\VP lab final\Question2\bin\Debug\net8.0\Question2.pdb
+D:\university\VP lab final\Question2\obj\Debug\net8.0\Question2.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\VP lab final\Question2\obj\Debug\net8.0\Question2.AssemblyInfoInputs.cache
+D:\university\VP lab final\Question2\obj\Debug\net8.0\Question2.AssemblyInfo.cs
+D:\university\VP lab final\Question2\obj\Debug\net8.0\Question2.csproj.CoreCompileInputs.cache
+D:\university\VP lab final\Question2\obj\Debug\net8.0\Question2.MvcApplicationPartsAssemblyInfo.cache
+D:\university\VP lab final\Question2\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\university\VP lab final\Question2\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\university\VP lab final\Question2\obj\Debug\net8.0\scopedcss\bundle\Question2.styles.css
+D:\university\VP lab final\Question2\obj\Debug\net8.0\scopedcss\projectbundle\Question2.bundle.scp.css
+D:\university\VP lab final\Question2\obj\Debug\net8.0\staticwebassets.build.json
+D:\university\VP lab final\Question2\obj\Debug\net8.0\staticwebassets.development.json
+D:\university\VP lab final\Question2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\university\VP lab final\Question2\obj\Debug\net8.0\staticwebassets\msbuild.Question2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\university\VP lab final\Question2\obj\Debug\net8.0\staticwebassets\msbuild.Question2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\university\VP lab final\Question2\obj\Debug\net8.0\staticwebassets\msbuild.build.Question2.props
+D:\university\VP lab final\Question2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Question2.props
+D:\university\VP lab final\Question2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Question2.props
+D:\university\VP lab final\Question2\obj\Debug\net8.0\staticwebassets.pack.json
+D:\university\VP lab final\Question2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\university\VP lab final\Question2\obj\Debug\net8.0\Question2.dll
+D:\university\VP lab final\Question2\obj\Debug\net8.0\refint\Question2.dll
+D:\university\VP lab final\Question2\obj\Debug\net8.0\Question2.pdb
+D:\university\VP lab final\Question2\obj\Debug\net8.0\Question2.genruntimeconfig.cache
+D:\university\VP lab final\Question2\obj\Debug\net8.0\ref\Question2.dll
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\bin\Debug\net8.0\appsettings.Development.json
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\bin\Debug\net8.0\appsettings.json
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\bin\Debug\net8.0\Question2.staticwebassets.runtime.json
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\bin\Debug\net8.0\Question2.exe
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\bin\Debug\net8.0\Question2.deps.json
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\bin\Debug\net8.0\Question2.runtimeconfig.json
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\bin\Debug\net8.0\Question2.dll
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\bin\Debug\net8.0\Question2.pdb
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\Question2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\Question2.AssemblyInfoInputs.cache
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\Question2.AssemblyInfo.cs
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\Question2.csproj.CoreCompileInputs.cache
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\Question2.MvcApplicationPartsAssemblyInfo.cache
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\staticwebassets.build.json
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\staticwebassets.development.json
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\staticwebassets\msbuild.Question2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\staticwebassets\msbuild.build.Question2.props
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Question2.props
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Question2.props
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\staticwebassets.pack.json
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\scopedcss\bundle\Question2.styles.css
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\scopedcss\projectbundle\Question2.bundle.scp.css
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\Question2.dll
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\refint\Question2.dll
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\Question2.pdb
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\Question2.genruntimeconfig.cache
+D:\VP lab final\Final-VP-1417862d632cb965afc9e7f04b757d0459b7fb24\Question2\obj\Debug\net8.0\ref\Question2.dll
+D:\VP lab final\233585 ques 2 VP final\Question2\bin\Debug\net8.0\appsettings.Development.json
+D:\VP lab final\233585 ques 2 VP final\Question2\bin\Debug\net8.0\appsettings.json
+D:\VP lab final\233585 ques 2 VP final\Question2\bin\Debug\net8.0\Question2.staticwebassets.runtime.json
+D:\VP lab final\233585 ques 2 VP final\Question2\bin\Debug\net8.0\Question2.exe
+D:\VP lab final\233585 ques 2 VP final\Question2\bin\Debug\net8.0\Question2.deps.json
+D:\VP lab final\233585 ques 2 VP final\Question2\bin\Debug\net8.0\Question2.runtimeconfig.json
+D:\VP lab final\233585 ques 2 VP final\Question2\bin\Debug\net8.0\Question2.dll
+D:\VP lab final\233585 ques 2 VP final\Question2\bin\Debug\net8.0\Question2.pdb
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\Question2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\Question2.AssemblyInfoInputs.cache
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\Question2.AssemblyInfo.cs
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\Question2.csproj.CoreCompileInputs.cache
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\Question2.MvcApplicationPartsAssemblyInfo.cache
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\staticwebassets.build.json
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\staticwebassets.development.json
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\staticwebassets\msbuild.Question2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\staticwebassets\msbuild.build.Question2.props
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Question2.props
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Question2.props
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\staticwebassets.pack.json
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\scopedcss\bundle\Question2.styles.css
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\scopedcss\projectbundle\Question2.bundle.scp.css
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\Question2.dll
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\refint\Question2.dll
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\Question2.pdb
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\Question2.genruntimeconfig.cache
+D:\VP lab final\233585 ques 2 VP final\Question2\obj\Debug\net8.0\ref\Question2.dll

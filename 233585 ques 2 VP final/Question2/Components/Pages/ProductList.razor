@@ -1,0 +1,39 @@
+﻿@page "/product-list"
+
+<h3>Product List</h3>
+
+@if (Products == null || !Products.Any())
+{
+    <p>No products available.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Category</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Products)
+            {
+                <tr>
+                    <td>@product.Name</td>
+                    <td>@product.Price</td>
+                    <td>@product.Category</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    [Parameter]
+    public List<Product> Products { get; set; } = new List<Product>();
+    protected override void OnInitialized()
+    {
+        Products = ProductDataService.GetProducts();
+    }
+}

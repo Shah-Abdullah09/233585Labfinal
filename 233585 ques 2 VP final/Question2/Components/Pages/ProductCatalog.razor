@@ -1,0 +1,13 @@
+﻿<!-- File: Pages/ProductCatalog.razor -->
+@page "/product-catalog"
+
+<ProductList Products="@productList" />
+
+@code {
+    private List<Product> productList = new List<Product>
+    {
+        new Product { Name = "Product 1", Price = 10.99m, Category = "Category A" },
+        new Product { Name = "Product 2", Price = 20.99m, Category = "Category B" },
+        new Product { Name = "Product 3", Price = 30.99m, Category = "Category C" }
+    };
+}
